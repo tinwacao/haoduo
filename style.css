@@ -405,6 +405,9 @@ dt p {
     dl {
         display:flex;
     }
+    dl h1 i {
+        font-size:12px;
+    }
     .head,
     .zhuyan-2,
     .vod-footer1,
@@ -486,7 +489,8 @@ dt p {
     position: relative;
     top:-4px;
     }
-    .zhuyan-1 {
+    .zhuyan-1,
+    dl h1 i {
     display:none;
     }
     .vod-footer1{ 
