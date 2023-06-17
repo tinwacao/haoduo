@@ -100,7 +100,7 @@ header button {
     top:12px;
 }
 header button:hover {
-    background:#02a982;
+    background:#08e9b5;
     cursor:pointer;
 }
 center {
@@ -186,7 +186,7 @@ figure span {
     z-index:3;
 }
 figure span i{
-color:#05c79a;
+color:#08e9b5;
 font-weight: 700;
 }
 figure img {
